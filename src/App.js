@@ -23,7 +23,7 @@ function App() {
         {name && (
           <p className="personalized-message">
             Hello, <span className="user-name">{name}</span>! Welcome to the
-            app!
+            DevOps app!
           </p>
         )}
       </div>
