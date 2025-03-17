@@ -12,7 +12,7 @@ function App() {
     // Thiis display the content on main
     <div className="app-container">
       <div className="welcome-card">
-        <h1>Welcome to the App!</h1>
+        <h1>Welcome to the App !</h1>
         <input
           type="text"
           placeholder="Enter your name"
